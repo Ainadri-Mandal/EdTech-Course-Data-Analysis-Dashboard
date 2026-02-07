@@ -41,6 +41,5 @@ The company needed insights to:
 ---
 
 ## 📷 Dashboard Preview  
-Attach your dashboard image here 👇  
 
 ![Dashboard Screenshot](Online%20course%20Analysis%20Dashboard.png)  
